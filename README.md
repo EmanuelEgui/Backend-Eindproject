@@ -1,2 +1,10 @@
-# Backend-Eindproject
-het werk van mijn eindproject (work in progress)
+# Backend Eind project idee Beschrijving (work in progress)
+
+#### Introductie 
+in deze beschrijving wil ik graag kunnen opkomen met een wat concepten of ideeen om een start te hebben van wat ik graag wil gaan maken in dit project, op dit moment had ik zojuist met coach Joris besproken van 2 concepten om iets te maken, de eerste is een voetbal statestiek page waarin je allerlei resulataten en beschrijvingen ziet van tabellen aan spelers. De tweede concept is een game tracker, waarin je allerei dingen kan bijhouden van een game die je speelt zoals, het aantal items of de level van je personage.Hieronder wil ik mezelf meer in verdiepen van wat ik allemaal erbij kan bedenken en wat ik gebruik om dit te programmeren.
+
+### Voetbal stats
+Het eerste idee dat er mee uitkwamen, het klinkt all tof omdat ik wat voetbal kennis heb en graag dit wil uitbreiden op een heel statestiek waarin je allerlei spelers hebt en kan zien in welke club zitten of hebben gezeten hoeveel doelpunten ze hebben gemaakt, schoten die ze hebben gemaakt, hoe ze presteerden in hun wedstrijden met een cijfer of het aantal posities die ze hebben gespeeld, wat ook leuk is om bijvoorbeeld erbij kunnen toevoegen is het hebben van ratings zoals in fifa waar ze nummers tussen de 1 tot aan de 100 aan geven van hoe iemand goed is in iets bijvoorbeeld technieken of hun snelheid etc.
+
+### Game tracker 
+Het tweede idee bestaat uit het tracken van een game, hiermee bedoel ik dat we zegmaar een game hebben die ik graag speel neem bijvoorbeeld Elden Ring, de game is supertof te spelen maar ik wil niet telkens de game opstarten om te zien wat ik allemaal heb of hoeveel van de map ik heb ondekt, Met het maken van een game tracker kan ik het makkelijk voormezelf maken van wat ik precies wil zien en weten zonder de game te moeten opstarten, dit kan van alles zijn zoals een showcase van je karakter je ziet welk level je karakter wat voor attributen hij allemaal heeft, welke armor of wapens hij nu met zich meedraagt, wat voor type items hij allemaal bij zich heeft of heeft unlocked. Dit kan natuurlijk veel breder en dieper door bijvoorbeeld te kunnen toevoegen hoe ver hij is in de game, welke bosses hij allemaal heeft neergehaald, de sterkte van zijn wapens of zelfs het kunnen uitchecken van de items die hij heeft en de descriptions ervan kunnen zien. 
